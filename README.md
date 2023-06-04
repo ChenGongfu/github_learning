@@ -126,7 +126,26 @@ A3: 不可以。只能恢复到最后一次暂存前的状态，通过
 
    把 github.pub里面的内容复制进去。
 
+   ```bash
+   # 关联远程仓库
+   git remote add origin git@github.com:ChenGongfu/github_learning.git
+   # 推送
+   git push -u origin master
+   ```
+
    
 
 2. push 两次？
+
+
+
+
+
+
+
+
+
+
+
+![](/home/cgf/Projects/Creations/github_learning/1486348362884912.jpg)
 
